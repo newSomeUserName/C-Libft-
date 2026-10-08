@@ -1,0 +1,5 @@
+DONE:
+	ft_atoi
+
+CHECK:
+	ft_memset
